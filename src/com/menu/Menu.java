@@ -10,6 +10,10 @@ import com.pojo.User;
 
 import java.util.Date;
 import java.util.Scanner;
+
+/**
+* Author: Zhang Ao
+*/
 public class Menu {
     public static void main(String[] args) {
         UserDao userDao = new UserDao();
